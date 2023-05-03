@@ -1,0 +1,8 @@
+P01#Popcorn#150
+P02#Butter Popcorn#150
+P03#Honey Popcorn#150
+D01#Water#30
+D02#Coke Size M#100
+D03#Coke Size L#150
+S01#Combo Popcorn Set#300
+S02#Special Popcorn Set#350
